@@ -1,0 +1,10 @@
+{
+  "primaryColor": "green",
+  "showHero": true,
+  "showAbout": true,
+  "showServices": true,
+  "showTestimonials": true,
+  "showContact": true,
+  "showFeatures": true,
+  "showFAQ": true
+}
